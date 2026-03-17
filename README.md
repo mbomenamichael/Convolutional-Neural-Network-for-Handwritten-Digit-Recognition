@@ -80,14 +80,6 @@ Misclassification Analysis
 - Training and validation performance visualisation
 - Analysis of misclassified examples
 
-## Project Structure
-
-model10.py              - CNN architecture and training script
-mnist_model5_tf212.h5   - Saved trained neural network model
-
-keras_tutorial.pdf      - Keras neural network development guide
-coursework_instructions.pdf - Coursework requirements and evaluation criteria
-
 ## Technologies Used
 
 - Python
